@@ -1,0 +1,11 @@
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/bin/Debug/net10.0/Booking.Domain.deps.json
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/bin/Debug/net10.0/Booking.Domain.dll
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/bin/Debug/net10.0/Booking.Domain.pdb
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/obj/Debug/net10.0/Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/obj/Debug/net10.0/Booking.Domain.AssemblyInfoInputs.cache
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/obj/Debug/net10.0/Booking.Domain.AssemblyInfo.cs
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/obj/Debug/net10.0/Booking.Domain.csproj.CoreCompileInputs.cache
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/obj/Debug/net10.0/Booking.Domain.dll
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/obj/Debug/net10.0/refint/Booking.Domain.dll
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/obj/Debug/net10.0/Booking.Domain.pdb
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.Domain/obj/Debug/net10.0/ref/Booking.Domain.dll

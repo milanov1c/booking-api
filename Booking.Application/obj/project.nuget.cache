@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbNgLj46TsY=",
+  "success": true,
+  "projectFilePath": "/Users/nkolamilanovic/RiderProjects/Booking/Booking.Application/Booking.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/nkolamilanovic/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

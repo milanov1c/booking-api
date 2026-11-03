@@ -1,0 +1,17 @@
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/bin/Debug/net10.0/Booking.DataAccess.deps.json
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/bin/Debug/net10.0/Booking.DataAccess.runtimeconfig.json
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/bin/Debug/net10.0/Booking.DataAccess.dll
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/bin/Debug/net10.0/Booking.DataAccess.pdb
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/bin/Debug/net10.0/Booking.Domain.dll
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/bin/Debug/net10.0/Booking.Domain.pdb
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/Booking.DataAccess.csproj.AssemblyReference.cache
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/Booking.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/Booking.DataAccess.AssemblyInfoInputs.cache
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/Booking.DataAccess.AssemblyInfo.cs
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/Booking.DataAccess.csproj.CoreCompileInputs.cache
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/Booking..D38D25E0.Up2Date
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/Booking.DataAccess.dll
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/refint/Booking.DataAccess.dll
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/Booking.DataAccess.pdb
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/Booking.DataAccess.genruntimeconfig.cache
+/Users/nkolamilanovic/RiderProjects/Booking/Booking.DataAccess/obj/Debug/net10.0/ref/Booking.DataAccess.dll
